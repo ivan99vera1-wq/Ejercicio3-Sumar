@@ -77,7 +77,7 @@ Ejercicio3-Sumar/
 
 | # | Repositorio | Tema |
 |:-:|:--|:--|
-| 1 | [HolaMundo](https://github.com/ivan99vera1-wq/HolaMundo) | Primer programa, imprimir texto |
+| 1 | [HolaMundo](https://github.com/ivan99vera1-wq/Ejercicio1-HolaMundo) | Primer programa, imprimir texto |
 | 2 | [Ejercicio2-Variables](https://github.com/ivan99vera1-wq/Ejercicio2-Variables) | Variables y tipos de datos |
 | **3** | ➕ **Ejercicio3-Sumar** *(este)* | Operador suma |
 | 4 | [Ejercicio4-Calculadora](https://github.com/ivan99vera1-wq/Ejercicio4-Calculadora) | Las 4 operaciones básicas |
